@@ -1,0 +1,3 @@
+[submodule "Assets/UnityPointCloud"]
+	path = Assets/UnityPointCloud
+	url = https://github.com/n1ckfg/UnityPointCloud
